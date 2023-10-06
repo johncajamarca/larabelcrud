@@ -1,0 +1,2 @@
+# larabelcrud
+App Gestion Equipos
